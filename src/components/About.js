@@ -13,13 +13,14 @@ const About = () => {
                         <div className="text-wrapper">About Me</div>
                         <p className="p">
                         Saya merupakan mahasiswa dari Universitas Pendidikan Indonesia dengan latar belakang
-                        jurusan pendidikan ilmu komputer. saya memiliki ketertarikan dalam bidang UI/UX
-                        design. saya memiliki hobi untuk bermain game yang saya sukai contohnya bermain pokemon.
+                        dalam jurusan pendidikan ilmu komputer. saya memiliki ketertarikan dalam illustrator. 
+                        saya memiliki hobi untuk bermain game yang saya sukai contohnya bermain pokemon. 
+                        lalu saya sangat menyukai untuk mendengar musik apapun genrenya (kecuali jazzzz).
                         </p>
                         
                     </div>
             </div>
-                    </Col>
+                    </Col>   
                 </Row>
             </Container>
             
